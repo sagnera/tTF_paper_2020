@@ -1,5 +1,6 @@
 # tTF_paper_2020
-scRNAseq analysis of Sagner et al. 2020
+
+This website contains the script for the scRNAseq analysis of Sagner et al. 2020.
 
 For analysis of spinal cord scRNAseq data, the m_neural.rds file from Delile et al. 2019 was used. The file was generated as described in https://github.com/juliendelile/MouseSpinalCordAtlas.
 
